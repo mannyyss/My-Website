@@ -1,3 +1,20 @@
-body{
-    background-color:cornflowerblue
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  color: #1300a3;
+  font-size: 2em;
+  margin-bottom: 0.5em;
+  font-family: droid sans, sans-serif;;
+}
+
+h3 {
+  color: #0ba300;
+  font-size: 1em;
+  margin-bottom: 0.5em;
+  font-family: eb garamond, serif;;
+  font-weight: 1000;
 }
